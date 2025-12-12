@@ -338,7 +338,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "TITLE:Full Stack Developer & Designer",
         "EMAIL:salauddinkaderappy@gmail.com",
         "TEL:+8801851075537",
-        "ADR:;;Dhaka;Bangladesh;;;",
+        "ADR:;;Cox's Bazar;Bangladesh;;;",
         "URL:https://github.com/salahuddingfx",
         "NOTE:Full Stack Developer | UI/UX Designer | Graphics Designer | Digital Marketer | Civil Technology Student",
         "ORG:Freelance Developer",
