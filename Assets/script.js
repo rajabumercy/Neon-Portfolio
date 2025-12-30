@@ -33,9 +33,9 @@ document.addEventListener("DOMContentLoaded", () => {
     hero_title: "Full Stack Developer & Designer",
     hero_subtitle:
       "Crafting digital experiences with cutting-edge technology and creative innovation.",
-    contact_email: "salahuddin@example.com",
-    contact_phone: "+1 (234) 567-890",
-    contact_location: "Dhaka, Bangladesh",
+    contact_email: "salauddinkaderappy@gmail.com",
+    contact_phone: "+8801851075537",
+    contact_location: "Cox's Bazar, Bangladesh",
   };
 
   // ---------- CUSTOM CURSOR ----------
